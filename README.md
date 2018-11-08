@@ -1,14 +1,20 @@
 # CheeKtool
 Tools for specific task
-![](Form/CheecKtool.png)
+![](Form/CheecKtool.png) 
 
 
-#Features
+# Features  
+
+- Opening Text Log Files
+- Delete all temporary files
+- Load all dynamics dll in a directory and check the dependency
+- Dynamically load and call a function in a BPL package
 
 
 
 
-#Licence
+
+# Licence
 Copyright (C) 2018-2019, walwalwalides (walwalwalides@gmail.com)          
                                                                          
 This software is provided 'as-is', without any express or implied          
